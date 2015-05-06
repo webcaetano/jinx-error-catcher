@@ -1,0 +1,9 @@
+import flash.utils.*;
+
+require('../../../index.jinx')();
+
+setTimeout(function(){
+	root['xxx'].x = 3; // simulating error
+},2000)
+
+
