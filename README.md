@@ -9,7 +9,7 @@ npm install jinx-error-catcher
 ```
 
 ## Usage 
-```javscript
+```javascript
 require('jinx-error-catcher')(); // that's all
 // all errors will display on browser console
 
