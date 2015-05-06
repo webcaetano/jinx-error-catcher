@@ -25,11 +25,11 @@ require('jinx-error-catcher')({
 
 #### deepDir
 show up to 3 parents folder Like (/home/www/main.as).
-- Default 2;
+- Default: 2
 
 #### maxStack
 show 3 stacks of root error 
-- Default 3;
+- Default: 3
 
 ---------------------------------
 
